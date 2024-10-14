@@ -1,0 +1,6 @@
+selenium
+pillow
+pytesseract
+pyautogui
+requests
+
